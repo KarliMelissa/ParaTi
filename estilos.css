@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(216, 192, 204);
+}
+.intro h1{
+    font-family: 'Times New Roman';
+    text-align: center;
+    color: blueviolet;
+}
+
+.subintro h2{
+    font-family: 'Times New Roman';
+    text-align: center;
+    color: rgb(177, 70, 20);
+}
+
+.foto-categoria img{
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
